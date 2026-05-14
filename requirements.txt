@@ -1,0 +1,27 @@
+# Project Requirements & Dependencies
+
+## Environment
+- Node.js (v18.x or higher)
+- PHP (v8.0 or higher)
+- SQLite (v3.x)
+- Web Server (Apache/Nginx/Built-in)
+
+## Frontend Dependencies (NPM)
+- react: ^18.x
+- tailwindcss: ^4.x
+- framer-motion: ^12.x
+- gsap: ^3.x
+- three: ^0.184.x
+- @react-three/fiber: ^9.x
+- @react-three/drei: ^10.x
+- lenis: ^1.x
+- lucide-react: ^0.x
+
+## Backend Requirements
+- PDO PHP Extension (pdo_sqlite)
+- JSON PHP Extension
+
+## Database
+- SQLite 3
+- Database File: ./backend/database.sqlite
+- SQL Schema: ./sql/schema.sql
